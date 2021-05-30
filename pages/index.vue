@@ -44,14 +44,6 @@
                 One token to rule them all
               </b>
             </h1>
-
-            <p class="hero__paragraph" style="margin-bottom: 80px; max-width: 900px">
-              Oasis token will provide its holders with access to a wide range of the projects developed by the community.
-              <br>
-              <br>
-            </p>
-              We will provide charting and tools with memory, limit orders on both bsc and uniswap, a snipe bot for new listings and presales with an automated buy/sell, tracked wallet mirroring, news and feeds for selected coins, podcasts, a discussion board, portfolio trackers for your favorite coins, in depth research reports and Technical analysis, rug sniffers to keep the community safe, and more! There will also be Oasis Discord bots to show new listings and tracked wallet movements, and tailored tippings bots to new coins.
-            </p>
             <div class="hero__description hero__description--second-screen align-items-center">
               <div id="schema-animation"></div>
               <div class="hero__description__big">
@@ -98,7 +90,7 @@
           <el-main>
             <h1 class="hero__header text-center" style="margin-bottom: 125px">
               <b>
-                How to buy
+                How To Buy
               </b>
             </h1>
             <el-row class="htb-row" :gutter="40">
@@ -128,7 +120,7 @@
                     <coin-icon />
                   </div>
                   <p>
-                    Transfer BNB to your wallet. You can use <a href="https://www.binance.com/" target="_blank">Binance</a> to purchase BNB, or buy it through TrustWallet and convert it to Smart Chain BSC if you don't have access to Binance.
+                    Transfer BNB to your wallet. You can use <a href="https://www.binance.com/" target="_blank">Binance</a> to purchase BNB, or buy it through TrustWallet and convert it to Smart Chain BNB if you don't have access to Binance.
                   </p>
                 </div>
               </el-col>
@@ -158,7 +150,7 @@
                     <phone-icon />
                   </div>
                   <p>
-                    iPhone Users users will need to enable the TrustWallet Browser tab. <a href="trust://browser_enable" target="_blank">Click this link</a> in safari to enable the browser.
+                    iPhone users will need to enable the TrustWallet Browser tab. <a href="trust://browser_enable" target="_blank">Click this link</a> in Safari to enable the browser.
                   </p>
                 </div>
               </el-col>
@@ -230,7 +222,7 @@
                     <br><br>
                     After the transaction confirms, you'll have Oasis in your wallet.
                     <br><br>
-                    Congratualtions, and welcome to The Oasis!
+                    Congratulations, and welcome to The Oasis!
                   </p>
                 </div>
               </el-col>
